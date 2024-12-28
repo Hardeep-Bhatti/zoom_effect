@@ -44,7 +44,7 @@ body
     height: 20%;
     width: 40%;
     border-radius: 10rem;
-    background-image: url('angel-wings-anime-girl-phone-wallpaper-4k-uhdpaper.com-730@3@a.jpg');
+    background-image: url('./Image/bg.jpg');
     background-repeat: no-repeat;
     background-size: 500%;
     background-position: var(--left) var(--top);
