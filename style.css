@@ -39,13 +39,14 @@ html, body
 {
     width: 100%;
     height: 100%;
+    object-fit: cover;
 }
 
 .section_01::before
 {
     content: '';
-    height: 20%;
-    width: 40%;
+    height: 25%;
+    width: 50%;
     border-radius: 1rem;
     background-image: url('./Images/bg.jpg');
     background-repeat: no-repeat;
